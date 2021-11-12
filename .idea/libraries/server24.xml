@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="server24">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/server24_jar/server24.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
